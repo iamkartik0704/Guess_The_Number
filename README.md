@@ -1,0 +1,1 @@
+#Guess_The_Number is a popular game where the user has to randomly guess a number between 0 and 100 and using the hints provided after each guess the user gets hint about the new guess he/she would make.
